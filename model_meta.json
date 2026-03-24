@@ -1,0 +1,6 @@
+{
+  "fixed_len": 100,
+  "feat_dim": 126,
+  "pred_threshold": 0.6,
+  "pred_margin": 0.15
+}
