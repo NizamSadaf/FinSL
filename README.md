@@ -84,10 +84,3 @@ Expand vocabulary
 Improve signer-independent recognition
 Add real-time detection
 Explore Transformer-based models
-
-🔮 Future Improvements
-Collect larger multi-signer dataset
-Expand vocabulary
-Improve signer-independent recognition
-Add real-time detection
-Explore Transformer-based models
