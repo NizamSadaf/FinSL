@@ -59,6 +59,7 @@ FinSL/
 ## 🚀 How to Run the Project
 
 ### Backend Setup
+Must have python **python 3.10**
 
 1. **Create the root and backend folders**
    ```bash
